@@ -29,4 +29,3 @@ require_once 'prune-action-scheduler-actions-more-often.php';
 //require_once 'sort-products-from-specific-merchants-last.php';
 //require_once 'add-size-attribute-for-each-product.php';
 //require_once 'limit-results-returned-by-comparison-set.php';
-
