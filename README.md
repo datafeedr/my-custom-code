@@ -23,7 +23,9 @@ require_once 'modules/prune-action-scheduler-actions-more-often.php';
 require_once 'modules/limit-results-returned-by-comparison-set.php';
 ```
 
-## Examples
+## Modules
+
+Here's a list of the modules included in this custom code plugin. You can activate or deactivate any of these modules at any time (see "How to use" above).
 
 #### add-size-attribute-for-each-product.php
 
