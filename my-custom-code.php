@@ -23,9 +23,10 @@ defined( 'ABSPATH' ) || exit;
 /**
  * Uncomment each line if you want to use that file's custom code.
  */
+//require_once 'modules/add-size-attribute-for-each-product.php';
 require_once 'modules/enable-product-update-feature-flag.php';
+//require_once 'modules/limit-results-returned-by-comparison-set.php';
+//require_once 'modules/normalize-merchant-attribute-names.php';
 //require_once 'modules/prune-action-scheduler-actions-more-often.php';
 //require_once 'modules/set-product-excerpt-equal-to-product-description.php';
 //require_once 'modules/sort-products-from-specific-merchants-last.php';
-//require_once 'modules/add-size-attribute-for-each-product.php';
-//require_once 'modules/limit-results-returned-by-comparison-set.php';

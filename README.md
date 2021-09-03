@@ -39,6 +39,10 @@ Enabled the new Product Update feature flag. [Learn more](https://github.com/dat
 
 Limit the number of results displayed by a Comparison Set.
 
+### normalize-merchant-attribute-names.php
+
+Modify merchant names before they are imported as product attributes.
+
 ### prune-action-scheduler-actions-more-often.php
 
 Prune completed actions created by the Action Scheduler every day (instead of every 30 days) and allow up to 500 actions
