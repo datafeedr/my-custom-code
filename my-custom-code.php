@@ -24,6 +24,7 @@ defined( 'ABSPATH' ) || exit;
  * Uncomment each line if you want to use that file's custom code.
  */
 //require_once 'modules/add-size-attribute-for-each-product.php';
+require_once 'modules/cloak-price-comparison-set-links.php';
 require_once 'modules/enable-product-update-feature-flag.php';
 //require_once 'modules/limit-results-returned-by-comparison-set.php';
 //require_once 'modules/normalize-merchant-attribute-names.php';
