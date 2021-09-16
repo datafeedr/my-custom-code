@@ -23,6 +23,7 @@ defined( 'ABSPATH' ) || exit;
 /**
  * Uncomment each line if you want to use that file's custom code.
  */
+//require_once 'modules/add-attribute-filter-to-admin-product-list.php';
 //require_once 'modules/add-size-attribute-for-each-product.php';
 //require_once 'modules/cloak-price-comparison-set-links.php';
 require_once 'modules/enable-product-update-feature-flag.php';

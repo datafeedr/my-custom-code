@@ -13,11 +13,12 @@ In this repo you can find custom code examples to extend or modify how the Dataf
 7. You will see a list of `require_once` statements and some will have `//` in front. If you want to use one of the
    modules, remove the preceeding `//` code.
 
-Here's an example of some modules enabled and others not. In this example the first and last modules are
-enabled whereas the rest of the modules are disabled.
+Here's an example of some modules enabled and others not. In this example the first and last modules are enabled whereas
+the rest of the modules are disabled.
 
 ```php
-require_once 'modules/add-size-attribute-for-each-product.php';
+require_once 'modules/add-attribute-filter-to-admin-product-list.php';
+//require_once 'modules/add-size-attribute-for-each-product.php';
 //require_once 'modules/cloak-price-comparison-set-links.php';
 //require_once 'modules/enable-product-update-feature-flag.php';
 //require_once 'modules/limit-results-returned-by-comparison-set.php';
@@ -31,6 +32,11 @@ require_once 'modules/sort-products-from-specific-merchants-last.php';
 
 Here's a list of the modules included in this custom code plugin. You can activate or deactivate any of these modules at
 any time (see "How to use" above).
+
+## add-attribute-filter-to-admin-product-list.php
+
+This module adds a new filter to the WordPress Admin Area > Products page which allows you to filter by an attribute
+value.
 
 ### add-size-attribute-for-each-product.php
 
