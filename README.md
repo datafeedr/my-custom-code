@@ -33,7 +33,7 @@ require_once 'modules/sort-products-from-specific-merchants-last.php';
 Here's a list of the modules included in this custom code plugin. You can activate or deactivate any of these modules at
 any time (see "How to use" above).
 
-## add-attribute-filter-to-admin-product-list.php
+### add-attribute-filter-to-admin-product-list.php
 
 This module adds a new filter to the WordPress Admin Area > Products page which allows you to filter by an attribute
 value.
