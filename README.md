@@ -67,6 +67,10 @@ to be deleted at a time.
 
 Set the products short description (excerpt) equal to this `description` field if the `shortdescription` is unavailable.
 
+### set-visibility-to-hidden-for-unavailable-products.php
+
+Set the visibility for unavailable products to "hidden".
+
 ### sort-products-from-specific-merchants-last.php
 
 Set products from specific merchants to sort last on category pages.

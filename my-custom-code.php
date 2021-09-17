@@ -31,4 +31,5 @@ require_once 'modules/enable-product-update-feature-flag.php';
 //require_once 'modules/normalize-merchant-attribute-names.php';
 //require_once 'modules/prune-action-scheduler-actions-more-often.php';
 //require_once 'modules/set-product-excerpt-equal-to-product-description.php';
+//require_once 'modules/set-visibility-to-hidden-for-unavailable-products.php';
 //require_once 'modules/sort-products-from-specific-merchants-last.php';
