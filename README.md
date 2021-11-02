@@ -21,6 +21,7 @@ require_once 'modules/add-attribute-filter-to-admin-product-list.php';
 //require_once 'modules/add-size-attribute-for-each-product.php';
 //require_once 'modules/cloak-price-comparison-set-links.php';
 //require_once 'modules/enable-product-update-feature-flag.php';
+//require_once 'modules/exclude-specific-merchants-from-appearing-in-comparison-sets.php';
 //require_once 'modules/limit-results-returned-by-comparison-set.php';
 //require_once 'modules/normalize-merchant-attribute-names.php';
 //require_once 'modules/prune-action-scheduler-actions-more-often.php';
@@ -49,6 +50,10 @@ Adds the ability to cloak affiliate links in your [Comparison Sets](https://data
 ### enable-product-update-feature-flag.php
 
 Enabled the new Product Update feature flag. [Learn more](https://github.com/datafeedr/wordpress-plugins/discussions/5).
+
+### exclude-specific-merchants-from-appearing-in-comparison-sets.php
+
+Exclude specific merchants from appearing in all of your Comparison Sets.
 
 ### limit-results-returned-by-comparison-set.php
 

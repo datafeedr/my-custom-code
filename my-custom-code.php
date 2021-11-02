@@ -28,6 +28,7 @@ defined( 'ABSPATH' ) || exit;
 //require_once 'modules/cloak-price-comparison-set-links.php';
 require_once 'modules/enable-product-update-feature-flag.php';
 //require_once 'modules/limit-results-returned-by-comparison-set.php';
+//require_once 'modules/exclude-specific-merchants-from-appearing-in-comparison-sets.php';
 //require_once 'modules/normalize-merchant-attribute-names.php';
 //require_once 'modules/prune-action-scheduler-actions-more-often.php';
 //require_once 'modules/set-product-excerpt-equal-to-product-description.php';
