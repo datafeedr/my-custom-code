@@ -25,6 +25,7 @@ require_once 'modules/add-attribute-filter-to-admin-product-list.php';
 //require_once 'modules/limit-results-returned-by-comparison-set.php';
 //require_once 'modules/normalize-merchant-attribute-names.php';
 //require_once 'modules/prune-action-scheduler-actions-more-often.php';
+//require_once 'modules/set-product-author-id-during-import.php';
 //require_once 'modules/set-product-excerpt-equal-to-product-description.php';
 require_once 'modules/sort-products-from-specific-merchants-last.php';
 ```
@@ -47,6 +48,10 @@ Adds size mapping for automatically adding size attributes to products.
 
 Adds the ability to cloak affiliate links in your [Comparison Sets](https://datafeedr.me/dfrcs).
 
+### display-last-updated-date-under-buy-button.php
+
+Displays the date the product was last updated with pricing info.
+
 ### enable-product-update-feature-flag.php
 
 Enabled the new Product Update feature flag. [Learn more](https://github.com/datafeedr/wordpress-plugins/discussions/5).
@@ -67,6 +72,10 @@ Modify merchant names before they are imported as product attributes.
 
 Prune completed actions created by the Action Scheduler every day (instead of every 30 days) and allow up to 500 actions
 to be deleted at a time.
+
+### set-product-author-id-during-import.php
+
+Set the product's Author ID during product import.
 
 ### set-product-excerpt-equal-to-product-description.php
 
