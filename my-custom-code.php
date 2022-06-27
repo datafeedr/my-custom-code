@@ -25,6 +25,7 @@ defined( 'ABSPATH' ) || exit;
  */
 //require_once 'modules/add-attribute-filter-to-admin-product-list.php';
 //require_once 'modules/add-size-attribute-for-each-product.php';
+//require_once 'modules/clean-up-scheduled-actions.php';
 //require_once 'modules/cloak-price-comparison-set-links.php';
 //require_once 'modules/custom-product-url-field.php';
 //require_once 'modules/display-last-updated-date-under-buy-button.php';
