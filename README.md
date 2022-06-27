@@ -44,6 +44,10 @@ value.
 
 Adds size mapping for automatically adding size attributes to products.
 
+### clean-up-scheduled-actions.php
+
+Automatically clean up specific scheduled actions by hook and status.
+
 ### cloak-price-comparison-set-links.php
 
 Adds the ability to cloak affiliate links in your [Comparison Sets](https://datafeedr.me/dfrcs).
